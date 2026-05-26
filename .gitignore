@@ -1,0 +1,10 @@
+.vscode/
+runs/
+train/
+val/
+images/
+labels/
+annotations/
+violations/
+*.pt
+__pycache__/
