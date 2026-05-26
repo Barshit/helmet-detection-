@@ -35,3 +35,10 @@ Dataset files, annotations, training images, and model weights are excluded from
 - Web dashboard
 - Better violation tracking
 
+## Training Results
+
+### Results Graph
+![Results](results/results.png)
+
+### Confusion Matrix
+![Confusion Matrix](results/confusion_matrix_normalized.png)
